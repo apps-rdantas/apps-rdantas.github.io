@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+User-agent: Google-Adwords-App-Ads-Txt
+Allow: /
